@@ -13,5 +13,5 @@
 ЛаФкИ ЧмАфКи
 
 <a id="frontend"></a>
- * [bootstrab](./frontend/bootstrap.md)
+ * [bootstrap](./frontend/bootstrap.md)
  * [Иконки](./frontend/icons.md)
