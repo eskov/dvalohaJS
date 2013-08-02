@@ -2,11 +2,14 @@
 
 =========
 
-*###[Frontend](#frontend)
+###[Frontend](#frontend)
 
-*###[Backend][]
+
+###[Backend][]
 
 Тут у нас инфо про то какие мы классные.
+
+
 ЛаФкИ ЧмАфКи
 
 <a id="frontend"></a>
