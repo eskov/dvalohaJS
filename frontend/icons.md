@@ -1,4 +1,4 @@
 # Иконки
 
-+[fontello.com](http://fontello.com/)
-+[habrapack](./icons/habrapack.zip)
+* [fontello.com](http://fontello.com/)
+* [habrapack](./icons/habrapack.zip)
