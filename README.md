@@ -25,7 +25,8 @@
 * [bootstrap](./frontend/bootstrap.md)
 * [Иконки](./frontend/icons.md)
 * [Lorem ipsum](http://www.picksumipsum.co.uk/)
-	
+* [Placehold.it](http://placehold.it/) - онлайн генерация плэйсхолдеров(картинки)
+
 
 <a id="other"></a>###разное
 * [Модульный JS (CommonJS,AMD-модули)](http://addyosmani.com/writing-modular-js/)
