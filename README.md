@@ -15,9 +15,11 @@
 ЛаФкИ ЧмАфКи
 
 <a id="frontend"></a>
- * [bootstrap](./frontend/bootstrap.md)
- * [Иконки](./frontend/icons.md)
-
+* [UI](./frontend/ui.md)
+* [CanIUse](http://caniuse.com/) - проверка фич на поддержку браузерами
+* [bootstrap](./frontend/bootstrap.md)
+* [Иконки](./frontend/icons.md)
+	
 
 <a id="other"></a>
- * [Модульный JS (CommonJS,AMD-модули)](http://addyosmani.com/writing-modular-js/)
+* [Модульный JS (CommonJS,AMD-модули)](http://addyosmani.com/writing-modular-js/)
