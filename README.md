@@ -2,7 +2,7 @@
 
 =========
 
-###[Frontend](/#frontend)
+###[Frontend](#frontend)
 
 
 ###[Backend]()
@@ -19,7 +19,7 @@
 ЛаФкИ ЧмАфКи
 
 
-<a id="frontend"></a>###фронтэнд
+<a id="frontend">фронтэнд</a>
 * [UI](./frontend/ui.md)
 * [CanIUse](http://caniuse.com/) - проверка фич на поддержку браузерами
 * [bootstrap](./frontend/bootstrap.md)
@@ -28,5 +28,5 @@
 * [Placehold.it](http://placehold.it/) - онлайн генерация плэйсхолдеров(картинки)
 
 
-<a id="other"></a>###разное
+<a id="other">разное</a>
 * [Модульный JS (CommonJS,AMD-модули)](http://addyosmani.com/writing-modular-js/)
